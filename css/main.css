@@ -1,0 +1,26 @@
+#wrapper{
+   height:960px;
+   width:960px;
+}
+
+.grid{
+
+   
+   float: left;
+}
+
+#reset{
+   padding-top: 5px;
+   text-align: center;
+   margin-right: 5%;
+   float: right;
+   font-family: arial;
+   font-size: 30px;
+   height: 50px;
+   width: 100px;
+   border-radius: 5%;
+   background-color: #3333FF;
+}
+#reset:hover {
+   background-color: #000090;
+}
